@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Find&amp;Hire</string>
+    <string name="registration_title">Registration</string>
+    <string name="enter_user_id">Enter user id</string>
+    <string name="enter_password">Enter password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
